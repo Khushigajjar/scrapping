@@ -1,0 +1,147 @@
+[
+  {
+    "category": "Discover Issy\nTo see or to do\nDigital city\nAct for the climate\nUrban planning & major projects\nInternational\nPublications\nGreater Paris Seine West",
+    "subcategories": [
+      {
+        "name": "To see or to do",
+        "url": "https://www.issy.com/decouvrir-issy/a-voir-ou-a-faire",
+        "content": ""
+      },
+      {
+        "name": "Digital city",
+        "url": "https://www.issy.com/numerique",
+        "content": ""
+      },
+      {
+        "name": "Act for the climate",
+        "url": "https://www.issy.com/agirpourleclimat",
+        "content": ""
+      },
+      {
+        "name": "Urban planning & major projects",
+        "url": "https://www.issy.com/decouvrir-issy/urbanisme-grands-projets",
+        "content": ""
+      },
+      {
+        "name": "International",
+        "url": "https://www.issy.com/villesjumelles",
+        "content": ""
+      },
+      {
+        "name": "Publications",
+        "url": "https://www.issy.com/publications",
+        "content": ""
+      },
+      {
+        "name": "Greater Paris Seine West",
+        "url": "https://www.issy.com/decouvrir-issy/grand-paris-seine-ouest",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "category": "Facilities and services\nMunicipal facilities\nMove\nSolidarity / aid\nHealth\nYour businesses\nPrevention and safety\nLost item",
+    "subcategories": [
+      {
+        "name": "Municipal facilities",
+        "url": "https://www.issy.com/equipements-et-services/les-equipements-municipaux",
+        "content": ""
+      },
+      {
+        "name": "Move",
+        "url": "https://www.issy.com/equipements-et-services/se-deplacer",
+        "content": ""
+      },
+      {
+        "name": "Solidarity / aid",
+        "url": "https://www.issy.com/equipements-et-services/solidarite-aides",
+        "content": ""
+      },
+      {
+        "name": "Health",
+        "url": "https://www.issy.com/sante",
+        "content": ""
+      },
+      {
+        "name": "Your businesses",
+        "url": "https://www.issy.com/espace-commercants",
+        "content": ""
+      },
+      {
+        "name": "Prevention and safety",
+        "url": "https://www.issy.com/equipements-et-services/prevention-et-securite",
+        "content": ""
+      },
+      {
+        "name": "Lost item",
+        "url": "https://www.issy.com/equipements-et-services/objet-perdu",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "category": "Living in Issy\nCulture\nDo sports\nCommunity life\nDisabilities\nChildhood, youth and family\nSeniors\nBusiness and employment",
+    "subcategories": [
+      {
+        "name": "Culture",
+        "url": "https://www.issy.com/vivre-a-issy/culture",
+        "content": ""
+      },
+      {
+        "name": "Do sports",
+        "url": "https://www.issy.com/sport",
+        "content": ""
+      },
+      {
+        "name": "Community life",
+        "url": "https://www.issy.com/associations",
+        "content": ""
+      },
+      {
+        "name": "Disabilities",
+        "url": "https://www.issy.com/vivre-a-issy/handicaps",
+        "content": ""
+      },
+      {
+        "name": "Childhood, youth and family",
+        "url": "https://www.issy.com/vivre-a-issy/enfance-jeunesse-et-famille",
+        "content": ""
+      },
+      {
+        "name": "Seniors",
+        "url": "https://www.issy.com/vivre-a-issy/seniors",
+        "content": ""
+      },
+      {
+        "name": "Business and employment",
+        "url": "https://www.issy.com/vivre-a-issy/entreprises-et-emploi",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "category": "Civic life\nElections\nThe Municipal Council\nFigures and finances\nEngage / debate",
+    "subcategories": [
+      {
+        "name": "Elections",
+        "url": "https://www.issy.com/vie-citoyenne/elections",
+        "content": ""
+      },
+      {
+        "name": "The Municipal Council",
+        "url": "https://www.issy.com/vie-citoyenne/le-conseil-municipal",
+        "content": ""
+      },
+      {
+        "name": "Figures and finances",
+        "url": "https://www.issy.com/vie-citoyenne/chiffres-et-finances",
+        "content": ""
+      },
+      {
+        "name": "Engage / debate",
+        "url": "https://www.issy.com/vie-citoyenne/s-engager-debattre",
+        "content": ""
+      }
+    ]
+  }
+]
